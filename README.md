@@ -1,6 +1,6 @@
 # Homework
 
-A collection of my homework and practices in UBC, EOAS graduate-level courses. Effective in 2015-2017.
+A collection of my homework and projects in the graduate-level courses of EOAS, UBC. Effective in 2015-2018.
 
 # Overview
 
