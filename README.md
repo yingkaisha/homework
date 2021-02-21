@@ -9,4 +9,8 @@ A collection of my homework and projects in the graduate-level courses of EOAS, 
 * EOSC 576 Inorganic Chemical Tracers in the Study of Marine Systems
 * EOSC 579 Dynamic Oceanography
 * EOSC 582 Satellite Remote Sensing: Applications to Oceanography and Meteorology
-* PhD comprehensive examination project (bias-correcting the GPM precipitaiton with Gaussian process regression)
+* PhD comprehensive examination project (bias-correcting the GPM precipitaiton using Gaussian process regression models)
+
+# Contact
+
+Yingkai (Kyle) Sha <<yingkai@eoas.ubc.ca>> <<yingkaisha@gmail.com>>
